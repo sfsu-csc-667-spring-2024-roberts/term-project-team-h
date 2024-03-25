@@ -1,4 +1,4 @@
-# Battleship - web app game
+# Battleship - web app game 🚀 🚢💨 
 term-project-team-h created by GitHub Classroom
 
 ## Team: 
