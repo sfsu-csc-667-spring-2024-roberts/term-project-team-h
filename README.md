@@ -2,11 +2,11 @@
 term-project-team-h created by GitHub Classroom
 
 ## Team: 
-Kristian Goranov,
+- Kristian Goranov
 
-Maxwell Lewis,
+- Maxwell Lewis
 
-Adithya Gutala,
+- Adithya Gutala
 
-Hritik Milind Zope
+- Hritik Milind Zope
 
