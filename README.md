@@ -1,8 +1,7 @@
-# term-project-team-h
+# Battleship - web app game
 term-project-team-h created by GitHub Classroom
 
-Battleship Web App
-
+##Team: 
 Kristian Goranov,
 Maxwell Lewis,
 Adithya Gutala,
